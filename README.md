@@ -12,7 +12,3 @@ Graphical interface along with encode/decode functionality based on Huffman tree
 ## Limitations
 
 This work is not intended to be applied in real compression/decompression scenarios due to obvious inefficiency.
-
-## Contributors
-
-- TODO
