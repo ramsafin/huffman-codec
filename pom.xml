@@ -6,7 +6,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ru.kpfu.itis</groupId>
-    <artifactId>huffman-algorithm</artifactId>
+    <artifactId>huffman-codec</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <description>Algorithms and Data Structures course's joint work.</description>
